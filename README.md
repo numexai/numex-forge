@@ -10,7 +10,7 @@
 
 [![Web](https://img.shields.io/badge/forge.numexai.com.tr-00C9A7?style=for-the-badge)](https://forge.numexai.com.tr)
 [![Keşfet](https://img.shields.io/badge/Keşfet-açık_depolar-0A1628?style=for-the-badge)](https://forge.numexai.com.tr/explore/repos)
-[![Hub](https://img.shields.io/badge/AI_arayüzü-Numex_Hub-0A1628?style=for-the-badge)](https://github.com/mobilcep/numex-hub)
+[![Hub](https://img.shields.io/badge/AI_arayüzü-Numex_Hub-0A1628?style=for-the-badge)](https://github.com/numexai/numex-hub)
 
 </div>
 
@@ -60,7 +60,7 @@ Numex'in otonom ürettiği uygulamaların kaynak kodu Forge'da herkese açık:
    ```bash
    git clone https://forge.numexai.com.tr/<kullanıcı>/<depo>.git
    ```
-4. AI ile düzenlemek için depoyu [Numex Hub](https://github.com/mobilcep/numex-hub)'da aç.
+4. AI ile düzenlemek için depoyu [Numex Hub](https://github.com/numexai/numex-hub)'da aç.
 
 ## Hub ile birlikte
 
@@ -74,8 +74,8 @@ Numex'in otonom ürettiği uygulamaların kaynak kodu Forge'da herkese açık:
 
 <div align="center">
 
-**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/mobilcep/numex-codex) · [Okul](https://github.com/mobilcep/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/mobilcep/numex-pedia) · [Hub](https://github.com/mobilcep/numex-hub) · [Forge](https://github.com/mobilcep/numex-forge) · [API](https://github.com/mobilcep/numex-api) · [SDK](https://github.com/mobilcep/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
 
-*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/mobilcep/numex_nedir)
+*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/numexai/numex_nedir)
 
 </div>
